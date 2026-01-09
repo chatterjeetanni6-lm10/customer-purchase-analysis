@@ -1,38 +1,38 @@
-\# Customer Purchase Analysis
+\Customer Purchase Analysis
 
 
 
-\## Overview
+\Overview
 
 This project analyzes customer purchase transaction data to understand buying behavior, revenue patterns, and customer value. The goal is to derive actionable business insights that can help improve customer retention and sales performance.
 
 
 
-\## Business Questions
+\Business Questions
 
-\- Which customers contribute the most to revenue?
+\* Which customers contribute the most to revenue?
 
-\- What are the purchasing trends over time?
+\* What are the purchasing trends over time?
 
-\- Which products and categories perform best?
+\* Which products and categories perform best?
 
-\- Are there identifiable patterns in repeat purchases?
+\* Are there identifiable patterns in repeat purchases?
 
 
 
-\## Dataset
+\ Dataset
 
 The dataset consists of customer transaction records including:
 
-\- Customer ID
+\* Customer ID
 
-\- Invoice details
+\* Invoice details
 
-\- Product information
+\* Product information
 
-\- Quantity and price
+\* Quantity and price
 
-\- Purchase date
+\* Purchase date
 
 
 
@@ -40,7 +40,7 @@ The raw dataset is stored in the `data/raw/` directory.
 
 
 
-\## Approach
+\ Approach
 
 1\. Data loading and initial inspection  
 
@@ -54,7 +54,7 @@ The raw dataset is stored in the `data/raw/` directory.
 
 
 
-\## Tools \& Technologies
+\ Tools \& Technologies
 
 \- Python
 
@@ -66,7 +66,7 @@ The raw dataset is stored in the `data/raw/` directory.
 
 
 
-\## Project Structure
+\ Project Structure
 
 customer-purchase-analysis/
 
@@ -86,23 +86,23 @@ customer-purchase-analysis/
 
 
 
-\## Key Insights (To be updated)
+\ Key Insights (To be updated)
 
-\- High-value customers contribute a disproportionate share of revenue
+\* High-value customers contribute a disproportionate share of revenue
 
-\- Purchase frequency varies significantly across customers
+\* Purchase frequency varies significantly across customers
 
-\- Certain products show strong repeat demand
+\* Certain products show strong repeat demand
 
 
 
-\## Future Work
+\ Future Work
 
-\- Customer segmentation (RFM analysis)
+\* Customer segmentation (RFM analysis)
 
-\- Predictive modeling for customer churn
+\* Predictive modeling for customer churn
 
-\- Dashboard creation using Power BI or Tableau
+\* Dashboard creation using Power BI or Tableau
 
 
 
